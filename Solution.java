@@ -1,6 +1,5 @@
-package mostFrequentNumberInIntervals.gitHub;
 
-import java.util.*;
+import java.util.Arrays;
 
 public class Solution {
 
